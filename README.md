@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanushripuvvala&label=Profile%20views&color=0e75b6&style=flat" alt="tanushripuvvala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanushripuvvala" alt="tanushripuvvala" /></a> </p>
-
 - 🌱 I’m currently learning **SQL, Python, Power BI, Tableau, Alteryx**
 
 - 💬 Ask me about **Data Analytics**
@@ -22,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanushripuvvala&show_icons=true&locale=en&layout=compact" alt="tanushripuvvala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanushripuvvala&show_icons=true&locale=en" alt="tanushripuvvala" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanushripuvvala&" alt="tanushripuvvala" /></p>
